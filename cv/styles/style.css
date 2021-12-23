@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.myphoto{
+    border: 3px solid #000000;
+    border-radius: 150px;
+    height: 150px;
+    width: 150px;
+    margin: 10px 10px 0px 40px;
+}
+.name{
+    font-family: Tahoma;
+    padding: 10px;
+    margin: 5px;
+}
+.info-title{
+    font-family: Tahoma;
+    font: small-caps bold Tahoma;
+    margin: 10px 10px 0px 20px;
+}
+
+.training-list{
+    padding: 5px 40px;
+    font: italic normal normal 14px/21px Arial;
+    padding: 5px 40px;
+    margin: 0px 10px 10px 20px;
+}
+
+.education-list{
+    padding: 5px 40px;
+    font: italic normal normal 14px/21px Arial;
+    padding: 5px 40px;
+    margin: 0px 10px 10px 20px;
+}
+
+.skill-list{
+    padding: 5px 40px;
+    font: italic normal normal 14px/21px Arial;
+    margin: 0px 10px 10px 20px;
+}
+
+.contact-list{
+    padding: 5px 40px;
+    font: italic normal normal 14px/21px Arial;
+    margin: 0px 10px 10px 20px;
+}
+.contact-name{
+    font-style: normal;
+}
